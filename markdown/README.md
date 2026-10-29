@@ -1,6 +1,7 @@
 # dartの基本
 * import
 * function： ```() {}```
+* late：非null
 
 # 
 * デバックのバナー非表示（MaterialApp）： ```debugShowCheckedModeBanner: false```
